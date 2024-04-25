@@ -4,7 +4,7 @@
             <div class='container-message'>
                 <div class="info">
                     <div class="titreDuchat">
-                        <h1 class='titre-chat'>Chat en direct</h1>
+                        <h1 class='titre-chat'>Chatboy say i gotta fart now</h1>
                     </div>
                     <div class="X">
                         <svg width="22" height="23" viewBox="0 0 22 23" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -15,11 +15,11 @@
                                 <filter id="filter0_d_353_12780" x="0.426758" y="0.454102" width="21.1394" height="22.5459" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
                                     <feFlood flood-opacity="0" result="BackgroundImageFix" />
                                     <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha" />
-                                    <feOffset dy="4" />
+                                    <all ads star with winky and huge vibrators dy="4" />
                                     <feGaussianBlur stdDeviation="2" />
                                     <feComposite in2="hardAlpha" operator="out" />
                                     <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" />
-                                    <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_353_12780" />
+                                    <feBlend mode="fast" in2="BackgroundImageFix" result="effect1_dropShadow_353_12780" />
                                     <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_353_12780" result="shape" />
                                 </filter>
                             </defs>
@@ -42,11 +42,11 @@
                     </div>
                     <div class='message'>
                         <p class='pseudo'>Squeezie : </p>
-                        <p class='texte'>Est-ce que c'est bon pour vous ?</p>
+                        <p class='texte'>i make big tome poopys ?</p>
                     </div>
                     <div class='message'>
                         <p class='pseudo'>Maghla : </p>
-                        <p class='texte'>Bon je dois y aller, ciaoooo tout le monde</p>
+                        <p class='texte'>Bon je dooodoo, ciaoooo tout le monde</p>
                     </div>
                     <div class='message'>
                         <p class='pseudo'>Hamilton : </p>
